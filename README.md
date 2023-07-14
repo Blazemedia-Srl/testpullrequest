@@ -3,10 +3,10 @@
 ## Branch protection
 Significa proteggere il branch principale (master) di un repository. In questo modo l'unica possibilità per aggiungere componenti in produzione è quella di effettuare delle pull request.
 
-Per configurare la protezione del branch, è necessario seguire i passaggi seguenti:
-
-Entrare nel repository in GitHub.
-- Cliccare sul link branch (o brabches) che è vicino all'iconda dei branch
+Una volta entrati nel repository in GitHub, possiamo  configurare la protezione del branch in questo modo:
+- Prima clicchiamo sulla tab dei Settings
+- Nella barra di destra troviamo il link branches e lo clicchiamo.
+- Appare il bottone Add Protection Rule, clicchiamo.
 - Cliccare sul branch su cui applicare la protezione.
 - Poi su "Protect this branch".
 - Nella finestra di dialogo "Branch protection", selezionare le opzioni da attivare.
