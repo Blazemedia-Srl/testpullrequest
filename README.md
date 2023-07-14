@@ -6,11 +6,7 @@ Significa proteggere il branch principale (master) di un repository. In questo m
 Una volta entrati nel repository in GitHub, possiamo  configurare la protezione del branch in questo modo:
 - Prima clicchiamo sulla tab dei Settings
 - Nella barra di destra troviamo il link branches e lo clicchiamo.
-- Appare il bottone Add Protection Rule, clicchiamo.
-- Cliccare sul branch su cui applicare la protezione.
-- Poi su "Protect this branch".
-- Nella finestra di dialogo "Branch protection", selezionare le opzioni da attivare.
-- Cliccare su  "Save".
+- Appare il bottone Add Protection Rule, clicchiamo e iniziamo ad impostare le restrizioni.
 
 Le opzioni che è possibile selezionare includono:
 
