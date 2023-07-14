@@ -5,12 +5,12 @@ Significa proteggere il branch principale (master) di un repository. In questo m
 
 Per configurare la protezione del branch, è necessario seguire i passaggi seguenti:
 
-Vai al repository in GitHub.
-- Fai clic su "Branches".
-- Fai clic sul branch su cui desideri applicare la protezione.
-- Fai clic su "Protect this branch".
-- Nella finestra di dialogo "Branch protection", seleziona le opzioni che desideri.
-- Fai clic su "Save".
+Entrare nel repository in GitHub.
+- Cliccare sul link branch (o brabches) che è vicino all'iconda dei branch
+- Cliccare sul branch su cui applicare la protezione.
+- Poi su "Protect this branch".
+- Nella finestra di dialogo "Branch protection", selezionare le opzioni da attivare.
+- Cliccare su  "Save".
 
 Le opzioni che è possibile selezionare includono:
 
